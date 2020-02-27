@@ -14,6 +14,6 @@ app.use(bodyParser.json());
 
 app.use(express.static('public'));
 
-app.get('./public');
+app.get('./public'); 
 
 app.listen(port, () => console.log(`Listening on port ${port}`));

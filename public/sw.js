@@ -1,4 +1,4 @@
-const cacheName = 'Temporas';
+ const cacheName = 'Temporas';
 
 // Cache all the files to make a PWA
 self.addEventListener('install', e => {
