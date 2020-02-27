@@ -1,0 +1,11 @@
+{
+  "name": "time",
+  "short_name": "timeRemedio",
+  "theme_color": "#f32199",
+  "background_color": "#04192a",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
